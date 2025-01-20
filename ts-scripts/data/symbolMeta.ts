@@ -2133,5 +2133,12 @@ export const symbolMeta: Record<string, TokenSymbolMeta> = {
     coinGeckoId: '',
     logo: 'nusdc.webp',
     name: 'Neptune Receipt USDC'
-  }
+  },
+
+   RealTrumPepe: {
+    decimals: 6,
+    symbol: 'RealTrumPepe',
+    coinGeckoId: '',
+    logo: 'QmYun1Ux8oiv7jfDz54EmYo5eEFYCf3SWmUHGzWaKrJsdD.jpg',
+    name: 'RealTrumPepe'
 }
